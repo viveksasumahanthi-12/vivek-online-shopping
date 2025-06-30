@@ -83,7 +83,7 @@ nav a:hover {
 
 .post img {
   flex: 1;
-  width: auto;
+  width: 100%;
   height: auto;
   object-fit: cover;
   border-radius: 0; /* No rounded corners to avoid gaps */
