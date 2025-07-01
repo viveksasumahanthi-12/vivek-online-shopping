@@ -82,7 +82,7 @@ nav a:hover {
 }
 
 .post img {
-  width: 200px;
+  width: 50px;
   height: auto;
   object-fit: cover;
   border-radius: 0;
